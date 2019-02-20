@@ -1,0 +1,4 @@
+### must be root user
+
+1. wget https://releases.hashicorp.com/vagrant/2.2.2/vagrant_2.2.2_x86_x64.deb
+2. dpkg -i vagrant*.deb 
